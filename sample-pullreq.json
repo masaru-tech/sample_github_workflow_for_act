@@ -1,0 +1,7 @@
+{
+  "action": "opened",
+  "pull_request": {
+    "url": "https://api.github.com/repos/Codertocat/Hello-World/pulls/2",
+    "draft": false
+  }
+}
